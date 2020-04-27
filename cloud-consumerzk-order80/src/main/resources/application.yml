@@ -1,0 +1,9 @@
+server:
+  port: 80
+spring:
+  application:
+    name: cloud-consumer-order
+  cloud:
+    #注册到zookeeper地址
+    zookeeper:
+      connect-string: 192.168.233.2:2181   #IP填你自己的服务器IP哦
