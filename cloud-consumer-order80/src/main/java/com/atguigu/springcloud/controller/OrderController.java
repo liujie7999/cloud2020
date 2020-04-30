@@ -50,7 +50,9 @@ public class OrderController {
 
 
     /**
-     *
+     *      新增方法getPaymentLB()
+     *      首先获取集群中的实例,然后判断是否为空,把获取到的list集群传给刚写的方法中获取到负载均衡获取到的当前实例
+     *      然后获取到实例地址,最后restTemplate去调用服务就会用到我们之前写的负载均衡去调用
      */
     @Resource
     private LoadBalancer loadBalancer;

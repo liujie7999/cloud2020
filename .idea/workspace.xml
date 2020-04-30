@@ -1,15 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec07faec-1885-4697-b425-c7d3b77188f7" name="Default Changelist" comment="zookeeper和Consul注册中心机制">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_spotbugs_spotbugs_annotations_3_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_6_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/myrule/MyselfRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/lb/LoadBalancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/lb/MyLB.java" afterDir="false" />
+    <list default="true" id="ec07faec-1885-4697-b425-c7d3b77188f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_atguigu_springcloud_cloud_api_commons_unknown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenFegin和Hystrix.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/cloud-consumer-feign-hystrix-order80.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/OrderHystrixMain80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/controller/OrderHystrixController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/service/PaymentFallbackService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/service/PaymentHystrixService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/cloud-consumer-feign-order80.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/atguigu/springcloud/OrderOpenFeignMain80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/atguigu/springcloud/config/FeignConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/atguigu/springcloud/controller/OrderFeignController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/atguigu/springcloud/service/PaymentFeignService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/cloud-consumer-hystrix-dashboard9001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/src/main/java/com/atguigu/springcloud/HystrixDashboardMain9001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/cloud-provider-hystrix-payment8001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/atguigu/springcloud/PaymentHystrixMain8001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentHystrixController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/atguigu/springcloud/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
@@ -28,7 +69,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_10_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_10_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_spotbugs_spotbugs_annotations_3_1_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_spotbugs_spotbugs_annotations_3_1_9.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
@@ -66,7 +109,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_6_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_6_Final.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_1_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_1_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
@@ -101,7 +144,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_29.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_29.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_29.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_29.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_29.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_29.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_14.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
@@ -203,16 +247,15 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/OrderMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/OrderMain80.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/OrderMain80.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/OrderMain80.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/controller/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/cloud-consumerzk-order80.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/cloud-consumerzk-order80.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/lb/LoadBalancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/lb/LoadBalancer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/service/PaymentService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/cloud-provider-payment8004.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8004/cloud-provider-payment8004.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,9 +290,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\IDEA\apache-maven-3.6.0\repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.6.0" />
-        <option name="userSettingsFile" value="D:\IDEA\apache-maven-3.6.0\conf\settings.xml" />
+        <option name="localRepository" value="E:\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -285,7 +328,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.33923304" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -336,6 +379,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderHystrixMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-feign-hystrix-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderHystrixMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumer-order80" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderMain80" />
@@ -343,9 +393,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderOpenFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-feign-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderOpenFeignMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OrderZKMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumerzk-order80" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderZKMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-hystrix-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentHystrixMain8001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -420,11 +484,6 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
                 <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
@@ -450,6 +509,7 @@
       <workItem from="1587953180591" duration="6300000" />
       <workItem from="1587987740303" duration="2734000" />
       <workItem from="1587994677836" duration="4249000" />
+      <workItem from="1588214162305" duration="15544000" />
     </task>
     <task id="LOCAL-00001" summary="初级Eureka&#10;跟尚硅谷周阳老师第一次提交">
       <created>1587916238090</created>
@@ -500,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587959159743</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="OpenFegin和Hystrix">
+      <created>1588240262748</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588240262748</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,7 +577,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="初级Eureka&#10;跟尚硅谷周阳老师第一次提交" />
     <MESSAGE value="zookeeper和Consul注册中心机制" />
-    <option name="LAST_COMMIT_MESSAGE" value="zookeeper和Consul注册中心机制" />
+    <MESSAGE value="OpenFegin和Hystrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="OpenFegin和Hystrix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="387" y="37" key="#Notifications" timestamp="1587953200746">
@@ -518,34 +586,38 @@
     </state>
     <state x="275" y="26" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1587918030127" />
     <state x="387" y="37" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1587953200746" />
-    <state x="387" y="37" key="#Project_Structure" timestamp="1587956428008">
+    <state x="387" y="37" key="#Project_Structure" timestamp="1588235765331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="26" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587916366482" />
-    <state x="387" y="37" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1587956428008" />
+    <state x="387" y="37" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1588235765331" />
     <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587908464964">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587908464964" />
-    <state x="358" y="12" key="CommitChangelistDialog2" timestamp="1587959533807">
+    <state x="721" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1588233413908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588233413908" />
+    <state x="358" y="12" key="CommitChangelistDialog2" timestamp="1588240262802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="144" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587918137518" />
-    <state x="358" y="12" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587959533807" />
+    <state x="358" y="12" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588240262802" />
     <state x="129" y="61" key="DiffContextDialog" timestamp="1587918086418">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="61" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1587918086418" />
-    <state x="463" y="115" key="FileChooserDialogImpl" timestamp="1587990359822">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="651" y="164" key="FileChooserDialogImpl" timestamp="1588214208064">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587990359822" />
-    <state x="651" y="164" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587959610247" />
-    <state x="776" y="371" width="386" height="301" key="Github.ShareDialog" timestamp="1587959219490">
+    <state x="651" y="164" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588214208064" />
+    <state x="776" y="371" width="386" height="301" key="Github.ShareDialog" timestamp="1588240383051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="260" width="274" height="208" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1587918145509" />
-    <state x="776" y="371" width="386" height="301" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587959219490" />
+    <state x="776" y="371" width="386" height="301" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588240383051" />
     <state width="994" height="91" key="GridCell.Tab.0.bottom" timestamp="1587996579365">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -594,11 +666,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="450" y="89" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587917331265" />
-    <state x="143" y="0" width="1190" height="728" key="SettingsEditor" timestamp="1587987770828">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="227" y="14" width="1190" height="728" key="SettingsEditor" timestamp="1588235020022">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="143" y="0" width="1190" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587987770828" />
-    <state x="201" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587959025414" />
+    <state x="227" y="14" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588235020022" />
     <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1587917956332">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -615,11 +687,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="468" y="270" key="git4idea.ui.GitResetDialog/0.0.1366.728@0.0.1366.728" timestamp="1587917641655" />
-    <state x="21" y="91" width="1251" height="596" key="new project wizard" timestamp="1587990186536">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="30" y="130" width="1251" height="596" key="new project wizard" timestamp="1588235710140">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="21" y="91" width="1251" height="596" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587990186536" />
-    <state x="30" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587956390627" />
+    <state x="30" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1588235710140" />
     <state x="486" y="70" width="945" height="969" key="search.everywhere.popup" timestamp="1587956219432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
