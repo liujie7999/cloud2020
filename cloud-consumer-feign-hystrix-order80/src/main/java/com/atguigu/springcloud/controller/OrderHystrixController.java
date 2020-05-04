@@ -36,6 +36,9 @@ public class OrderHystrixController {
         return "我是消费者80，对方支付系统繁忙，请稍后再试，o(╥﹏╥)o";
     }
 
+    /**
+     * 全局降级方法实现
+     */
     public String payment_Global_FallbackMethod(){
         return "Global异常处理信息,请稍后再试: orz~";
     }

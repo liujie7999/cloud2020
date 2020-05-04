@@ -38,6 +38,9 @@ public class PaymentService {
         return "程序运行繁忙或报错,请稍后再试*****"+"当前线程: "+Thread.currentThread().getName()+id+"\t "+"orz!";
     }
 
+    /**
+     *      服务熔断
+     */
     @HystrixCommand(fallbackMethod="paymentCircuitBreakerFallback", commandProperties={
             @HystrixProperty(name = "circuitBreaker.enabled" ,value = "true"),//是否开启断路器
             @HystrixProperty(name = "circuitBreaker.requestVolumeThreshold",value = "10"),// 请求次数
