@@ -20,16 +20,21 @@
         <module name="cloud-provider-payment8002" />
         <module name="cloud-provider-payment8001" />
         <module name="cloud-consumer-feign-hystrix-order80" />
+        <module name="cloud-consumer-feign-order80" />
+        <module name="cloud-stream-rabbitmq-provider8801" />
         <module name="cloud-providerconsul-payment8006" />
         <module name="cloud-gateway-gateway9527" />
         <module name="cloud-consumer-hystrix-dashboard9001" />
-        <module name="cloud-consumer-feign-order80" />
+        <module name="cloud-stream-rocketmq-provider8801" />
+        <module name="cloud-config-client-3366" />
+        <module name="cloud-stream-rabbitmq-consumer8802" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-api-commons" target="1.8" />
       <module name="cloud-config-center-3344" target="1.8" />
       <module name="cloud-config-client-3355" target="1.8" />
+      <module name="cloud-config-client-3366" target="1.8" />
       <module name="cloud-consumer-feign-hystrix-order80" target="1.8" />
       <module name="cloud-consumer-feign-order80" target="1.8" />
       <module name="cloud-consumer-hystrix-dashboard9001" target="1.8" />
@@ -44,6 +49,9 @@
       <module name="cloud-provider-payment8002" target="1.8" />
       <module name="cloud-provider-payment8004" target="1.8" />
       <module name="cloud-providerconsul-payment8006" target="1.8" />
+      <module name="cloud-stream-rabbitmq-consumer8802" target="1.8" />
+      <module name="cloud-stream-rabbitmq-provider8801" target="1.8" />
+      <module name="cloud-stream-rocketmq-provider8801" target="1.8" />
       <module name="cloud2020" target="1.8" />
     </bytecodeTargetLevel>
   </component>

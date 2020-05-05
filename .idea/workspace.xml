@@ -2,60 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec07faec-1885-4697-b425-c7d3b77188f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aiguigu_springcloud_cloud_api_commons_1_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_0_9_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_core_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_multipart_parser_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_stream_storage_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/cloud-config-center-3344.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/java/com/atguigu/springcloud/ConfigCenterMain3344.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/cloud-config-client-3355.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/atguigu/springcloud/ConfigClientMain3355.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/atguigu/springcloud/controller/ConfigClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/cloud-gateway-gateway9527.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/atguigu/springcloud/GatewayMain9527.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/atguigu/springcloud/config/GatewayConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/atguigu/springcloud/filter/MyLogGateWayFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_http_client_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_2_0_28_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_client_4_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_common_4_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_logging_4_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_remoting_4_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_bus_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_context_3_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_core_3_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_bus_amqp_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_stream_rabbit_3_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_3_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_3_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_core_3_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rocketmq_0_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_amqp_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_core_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_jmx_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/cloud-config-client-3366.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/atguigu/springcloud/ConfigClientMain3366.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/atguigu/springcloud/controller/ConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/cloud-stream-rabbitmq-consumer8802.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/StreamMQMain8801.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/controller/SendMessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/service/IMessageProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/atguigu/springcloud/service/impl/IMessageProviderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/controller/OrderHystrixController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/controller/OrderHystrixController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/atguigu/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/atguigu/springcloud/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/cloud-config-center-3344.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/cloud-config-center-3344.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/cloud-config-client-3355.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/cloud-config-client-3355.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +128,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.33923304" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -157,6 +156,13 @@
     <configuration name="ConfigClientMain3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-config-client-3355" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.ConfigClientMain3355" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientMain3366" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client-3366" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.ConfigClientMain3366" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -289,6 +295,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamMQMain8801" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-provider8801" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.StreamMQMain8801" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.GatewayMain9527" />
@@ -309,11 +322,6 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
@@ -344,7 +352,9 @@
       <workItem from="1587987740303" duration="2734000" />
       <workItem from="1587994677836" duration="4249000" />
       <workItem from="1588214162305" duration="16832000" />
-      <workItem from="1588574205839" duration="9626000" />
+      <workItem from="1588574205839" duration="10323000" />
+      <workItem from="1588641590391" duration="7265000" />
+      <workItem from="1588655410194" duration="8739000" />
     </task>
     <task id="LOCAL-00001" summary="初级Eureka&#10;跟尚硅谷周阳老师第一次提交">
       <created>1587916238090</created>
@@ -416,18 +426,39 @@
       <option name="project" value="LOCAL" />
       <updated>1588240783904</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2020.5.4 Gateway和config">
+      <created>1588587081333</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588587081334</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="初级Eureka&#10;跟尚硅谷周阳老师第一次提交" />
     <MESSAGE value="zookeeper和Consul注册中心机制" />
     <MESSAGE value="OpenFegin和Hystrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="OpenFegin和Hystrix" />
+    <MESSAGE value="2020.5.4 Gateway和config" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.5.4 Gateway和config" />
   </component>
   <component name="WindowStateProjectService">
     <state x="387" y="37" key="#Notifications" timestamp="1587953200746">
@@ -435,78 +466,87 @@
     </state>
     <state x="275" y="26" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1587918030127" />
     <state x="387" y="37" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1587953200746" />
-    <state x="387" y="37" key="#Project_Structure" timestamp="1588235765331">
+    <state x="387" y="37" key="#Project_Structure" timestamp="1588654616010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="26" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587916366482" />
-    <state x="387" y="37" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1588235765331" />
+    <state x="387" y="37" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1588654616010" />
     <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587908464964">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587908464964" />
-    <state x="721" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1588233413908">
+    <state x="688" y="307" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588653557155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588233413908" />
-    <state x="358" y="12" key="CommitChangelistDialog2" timestamp="1588586977328">
+    <state x="688" y="307" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588653557155" />
+    <state x="651" y="377" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1588655077450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="651" y="377" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588655077450" />
+    <state x="721" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1588664055605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588664055605" />
+    <state x="358" y="12" key="CommitChangelistDialog2" timestamp="1588673752368">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="144" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587918137518" />
-    <state x="358" y="12" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588586977328" />
-    <state x="129" y="61" key="DiffContextDialog" timestamp="1587918086418">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="358" y="12" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588673752368" />
+    <state x="181" y="87" width="1536" height="832" key="DiffContextDialog" timestamp="1588587677955">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="129" y="61" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1587918086418" />
-    <state x="651" y="164" key="FileChooserDialogImpl" timestamp="1588214208064">
+    <state x="181" y="87" width="1536" height="832" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588587677955" />
+    <state x="651" y="164" key="FileChooserDialogImpl" timestamp="1588654137990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587990359822" />
-    <state x="651" y="164" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588214208064" />
+    <state x="651" y="164" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588654137990" />
     <state x="776" y="371" width="386" height="301" key="Github.ShareDialog" timestamp="1588240383051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="260" width="274" height="208" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1587918145509" />
     <state x="776" y="371" width="386" height="301" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588240383051" />
-    <state width="1570" height="440" key="GridCell.Tab.0.bottom" timestamp="1588579665696">
+    <state width="1570" height="421" key="GridCell.Tab.0.bottom" timestamp="1588587680590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="994" height="91" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587996579365" />
-    <state width="1570" height="440" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588579665696" />
-    <state width="1570" height="440" key="GridCell.Tab.0.center" timestamp="1588579665696">
+    <state width="1570" height="421" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588587680590" />
+    <state width="1570" height="421" key="GridCell.Tab.0.center" timestamp="1588587680590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="994" height="91" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587996579365" />
-    <state width="1570" height="440" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588579665696" />
-    <state width="1570" height="440" key="GridCell.Tab.0.left" timestamp="1588579665696">
+    <state width="1570" height="421" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588587680590" />
+    <state width="1570" height="421" key="GridCell.Tab.0.left" timestamp="1588587680590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="994" height="91" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587996579365" />
-    <state width="1570" height="440" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588579665696" />
-    <state width="1570" height="440" key="GridCell.Tab.0.right" timestamp="1588579665696">
+    <state width="1570" height="421" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588587680590" />
+    <state width="1570" height="421" key="GridCell.Tab.0.right" timestamp="1588587680590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="994" height="91" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587996579365" />
-    <state width="1570" height="440" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588579665696" />
-    <state width="1570" height="440" key="GridCell.Tab.1.bottom" timestamp="1588579665697">
+    <state width="1570" height="421" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588587680590" />
+    <state width="1570" height="421" key="GridCell.Tab.1.bottom" timestamp="1588587680590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="994" height="91" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587996579365" />
-    <state width="1570" height="440" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588579665697" />
-    <state width="1570" height="440" key="GridCell.Tab.1.center" timestamp="1588579665696">
+    <state width="1570" height="421" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588587680590" />
+    <state width="1570" height="421" key="GridCell.Tab.1.center" timestamp="1588587680590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="994" height="91" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587996579365" />
-    <state width="1570" height="440" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588579665696" />
-    <state width="1570" height="440" key="GridCell.Tab.1.left" timestamp="1588579665696">
+    <state width="1570" height="421" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588587680590" />
+    <state width="1570" height="421" key="GridCell.Tab.1.left" timestamp="1588587680590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="994" height="91" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587996579365" />
-    <state width="1570" height="440" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588579665696" />
-    <state width="1570" height="440" key="GridCell.Tab.1.right" timestamp="1588579665697">
+    <state width="1570" height="421" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588587680590" />
+    <state width="1570" height="421" key="GridCell.Tab.1.right" timestamp="1588587680590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="994" height="91" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587996579365" />
-    <state width="1570" height="440" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588579665697" />
+    <state width="1570" height="421" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588587680590" />
     <state x="323" y="68" key="NewModule_or_Project.wizard" timestamp="1587909040429">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -515,21 +555,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="450" y="89" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587917331265" />
-    <state x="227" y="14" width="1190" height="728" key="SettingsEditor" timestamp="1588240748732">
+    <state x="298" y="31" width="1190" height="913" key="SettingsEditor" timestamp="1588660433514">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="143" y="0" width="1190" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587987770828" />
-    <state x="227" y="14" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588240748732" />
-    <state x="387" y="143" key="Vcs.Push.Dialog.v2" timestamp="1588240785998">
+    <state x="298" y="31" width="1190" height="913" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588660433514" />
+    <state x="387" y="143" key="Vcs.Push.Dialog.v2" timestamp="1588587090145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587917956332" />
-    <state x="387" y="143" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588240785998" />
-    <state x="527" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1588574205678">
+    <state x="387" y="143" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588587090145" />
+    <state x="527" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1588655409389">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="375" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587913456997" />
-    <state x="527" y="274" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588574205678" />
+    <state x="527" y="274" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588655409389" />
     <state x="477" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587917322959">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -538,19 +578,20 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="468" y="270" key="git4idea.ui.GitResetDialog/0.0.1366.728@0.0.1366.728" timestamp="1587917641655" />
-    <state x="30" y="130" width="1251" height="596" key="new project wizard" timestamp="1588582159590">
+    <state x="345" y="138" width="1251" height="596" key="new project wizard" timestamp="1588665880442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="21" y="91" width="1251" height="596" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587990186536" />
-    <state x="30" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1588582159590" />
-    <state x="486" y="70" width="945" height="969" key="search.everywhere.popup" timestamp="1588579082758">
+    <state x="345" y="138" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1588665880442" />
+    <state x="486" y="70" width="945" height="969" key="search.everywhere.popup" timestamp="1588653804353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587908904410" />
-    <state x="486" y="70" width="945" height="969" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588579082758" />
-    <state x="426" y="56" key="spring file set editor" timestamp="1587909562995">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="486" y="70" width="945" height="969" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588653804353" />
+    <state x="599" y="80" key="spring file set editor" timestamp="1588654138964">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="426" y="56" key="spring file set editor/0.0.1366.728@0.0.1366.728" timestamp="1587909562995" />
+    <state x="599" y="80" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1588654138964" />
   </component>
 </project>
