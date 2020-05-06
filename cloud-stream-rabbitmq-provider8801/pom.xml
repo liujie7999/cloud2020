@@ -9,18 +9,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cloud-stream-rocketmq-provider8801</artifactId>
+    <artifactId>cloud-stream-rabbitmq-provider8801</artifactId>
 
     <dependencies>
+        <!--stream-rabbit-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-stream</artifactId>
-        </dependency>
-        <!--stream-rocketmq-->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-stream-binder-rocketmq</artifactId>
-            <version>0.2.1.RELEASE</version>
+            <artifactId>spring-cloud-starter-stream-rabbit</artifactId>
         </dependency>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
@@ -53,4 +48,3 @@
         </dependency>
     </dependencies>
 </project>
-
