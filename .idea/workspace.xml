@@ -554,16 +554,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="572" y="433" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588750672553" />
-    <state x="358" y="12" key="CommitChangelistDialog2" timestamp="1588757618669">
+    <state x="358" y="12" key="CommitChangelistDialog2" timestamp="1588844231333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="144" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587918137518" />
-    <state x="358" y="12" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588757618669" />
-    <state x="181" y="87" width="1536" height="832" key="DiffContextDialog" timestamp="1588587677955">
+    <state x="358" y="12" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588844231333" />
+    <state x="181" y="87" width="1536" height="832" key="DiffContextDialog" timestamp="1588844246284">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="129" y="61" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1587918086418" />
-    <state x="181" y="87" width="1536" height="832" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588587677955" />
+    <state x="181" y="87" width="1536" height="832" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588844246284" />
     <state x="651" y="164" key="FileChooserDialogImpl" timestamp="1588748068527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -627,11 +627,11 @@
     </state>
     <state x="143" y="0" width="1190" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587987770828" />
     <state x="298" y="31" width="1190" height="913" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588748331316" />
-    <state x="387" y="143" key="Vcs.Push.Dialog.v2" timestamp="1588757625625">
+    <state x="387" y="143" key="Vcs.Push.Dialog.v2" timestamp="1588844118989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587917956332" />
-    <state x="387" y="143" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588757625625" />
+    <state x="387" y="143" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588844118989" />
     <state x="527" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1588729585651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
