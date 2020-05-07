@@ -1,15 +1,14 @@
-package com.atguigu.springcloud.alibaba;
+package com.atguigu.springcloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
-
-@EnableDiscoveryClient
 @SpringBootApplication
-public class PaymentMain9001
-{
+@EnableDiscoveryClient
+public class    MainApp8401 {
     public static void main(String[] args) {
-            SpringApplication.run(PaymentMain9001.class, args);
+        SpringApplication.run(MainApp8401.class,args);
     }
 }
+
